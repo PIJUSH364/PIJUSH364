@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pijush364&label=Profile%20views&color=0e75b6&style=flat" alt="pijush364" /> </p>
 
-- 🌱 I’m currently learning **Nextjs,TypeScript**
+- 🌱 I’m currently learning **Nodejs**
 
-- 👯 I’m looking to collaborate on **Nextjs,TypeScript,MeterialUi**
+- 👯 I’m looking to collaborate on **ReactJs,MeterialUi**
 
-- 🤝 I’m looking for help with **Nextjs,TypeScript,MeterialUi**
+- 🤝 I’m looking for help with ***ReactJs,nodeJs,MeterialUi**
 
 - 👨‍💻 All of my projects are available at [https://vermillion-sunshine-6cbacf.netlify.app/](https://vermillion-sunshine-6cbacf.netlify.app/)
 
-- 💬 Ask me about **Nextjs,TypeScript,ReactJs**
+- 💬 Ask me about **ReactJs**
 
 - 📫 How to reach me **praymondal@gmail.com**
 
