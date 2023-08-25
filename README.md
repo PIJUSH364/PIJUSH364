@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👯 I’m looking to collaborate on **ReactJs,MeterialUi**
+- 👯 I’m looking to collaborate on **NextJs,TypeScript**
 
-- 🤝 I’m looking for help with ***ReactJs,nodeJs,MeterialUi**
+- 🤝 I’m looking for help with ***ReactJs,nodeJs,Telwnindcss**
 
 - 👨‍💻 All of my projects are available at [https://vermillion-sunshine-6cbacf.netlify.app/](https://vermillion-sunshine-6cbacf.netlify.app/)
 
@@ -24,6 +24,7 @@
 <a href="https://www.linkedin.com/in/praymondal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pijush-ray-mondal-621980192/" height="30" width="40" /></a> &nbsp;
 <a href="https://www.instagram.com/pijushrm_24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/pijushrm_24/" height="30" width="40" /></a>&nbsp;
 <a href="https://leetcode.com/praymondal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/eitherfirstnitherlast/" height="30" width="40" /></a>
+ <a href="https://twitter.com/RaymondalPijush" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png?20220821125553" alt="twiter-profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
