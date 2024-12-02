@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pijush364&label=Profile%20views&color=0e75b6&style=flat" alt="pijush364" /> </p>
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on **NextJs,TypeScript**
 
